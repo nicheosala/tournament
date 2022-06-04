@@ -1,0 +1,1 @@
+LINE_LEN: int = 52
